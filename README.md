@@ -4,6 +4,8 @@ Welcome to the AWS CodeStar sample web application
 This sample code helps get you started with a simple PHP Laravel web
 application deployed by AWS Elastic Beanstalk and AWS CloudFormation.
 
+Some change to force a build.
+
 What's Here
 -----------
 
